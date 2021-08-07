@@ -3,6 +3,7 @@ rencana:
   - peterpan
   - coldplay
     ^yellow
+    ^the scientist
 2. programming
 3. figma tutorial
    ^auto layout
