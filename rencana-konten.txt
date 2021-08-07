@@ -1,0 +1,4 @@
+rencana:
+1. cover lagu
+2. programming
+3. figma tutorial
