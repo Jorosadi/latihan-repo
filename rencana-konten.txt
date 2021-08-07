@@ -2,7 +2,10 @@ rencana:
 1. cover lagu
   - peterpan
   - coldplay
+    ^ miracle
+    ^ hypnotised
 2. programming
 3. figma tutorial
 4. gitar tutorial
 5. nostalgia
+6. flutter
