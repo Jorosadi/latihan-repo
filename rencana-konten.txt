@@ -1,5 +1,7 @@
 rencana:
 1. cover lagu
+  - peterpan
+  - coldplay
 2. programming
 3. figma tutorial
 4. gitar tutorial
