@@ -2,7 +2,10 @@ rencana:
 1. cover lagu
   - peterpan
   - coldplay
+    ^yellow
 2. programming
 3. figma tutorial
+   ^auto layout
 4. gitar tutorial
 5. nostalgia
+6. flutter
