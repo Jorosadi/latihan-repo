@@ -2,3 +2,5 @@ rencana:
 1. cover lagu
 2. programming
 3. figma tutorial
+4. gitar tutorial
+5. nostalgia
