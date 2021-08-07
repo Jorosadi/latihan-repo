@@ -2,3 +2,5 @@ Resolusi:
 1. Ingin bisa menjadi ...
 2. Membuat Project baru
 3. Membuat diskusi
+4. membuat workshop
+5. kolaborasi dengan expert
